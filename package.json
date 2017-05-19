@@ -1,0 +1,27 @@
+{
+  "name": "assmatch",
+  "version": "0.0.1",
+  "description": "The shortest simplest way to write asserts. \"It's kick-donkey alright\" - Winterwell",
+  "main": "assmatch.js",
+  "scripts": {
+    "test": "todo-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winterstein/assmatch.git"
+  },
+  "keywords": [
+    "assert",
+    "unit",
+    "test",
+    "match",
+    "matcher",
+    "testing"
+  ],
+  "author": "Daniel Winterstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winterstein/assmatch/issues"
+  },
+  "homepage": "https://github.com/winterstein/assmatch#readme"
+}
